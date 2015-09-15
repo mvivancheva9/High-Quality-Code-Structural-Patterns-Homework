@@ -1,0 +1,6 @@
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\Homework-Tasks\bin\Debug\Homework-Tasks.exe.config
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\Homework-Tasks\bin\Debug\Homework-Tasks.exe
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\Homework-Tasks\bin\Debug\Homework-Tasks.pdb
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\Homework-Tasks\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\Homework-Tasks\obj\Debug\Homework-Tasks.exe
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\Homework-Tasks\obj\Debug\Homework-Tasks.pdb
