@@ -1,0 +1,6 @@
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+D:\Telerik Academy Courses\KPK\High-Quality-Code-Structural-Patterns-Homework\Homework-Tasks\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
